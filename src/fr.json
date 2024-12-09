@@ -1,4 +1,11 @@
 {
+  "titles": {
+    "experience" : "Expérience profesionelle",
+    "education" : "Formation",
+    "skills" : "Compétences",
+    "hobbies" : "Centres d'intérêt"
+  },
+
   "personal_information": {
     "name": "Julien Seemüller",
     "title": "Ingénieur logiciel",
@@ -33,7 +40,8 @@
       "position": "Ingénieur logiciel",
       "responsibilities": [
         "Mission d’un mois, aide au développement de solutions (frontend et backend), migrations."
-      ]
+      ],
+      "tag": "it"
     },
     {
       "start_date": "2022-04",
@@ -43,7 +51,8 @@
       "position": "Barista",
       "responsibilities": [
         "Principes d’extraction (espresso & filtre), latte art."
-      ]
+      ],
+      "tag": "barista"
     },
     {
       "start_date": "2020-09",
@@ -53,7 +62,8 @@
       "position": "Médiateur scientifique",
       "responsibilities": [
         "Création et déroulement d’activités scientifiques et vulgarisation pour les élèves de différentes écoles de Genève (1P-8P, incluant classes allophones et d’intégration)."
-      ]
+      ],
+      "tag": "teaching"
     },
     {
       "start_date": "2020-06",
@@ -63,25 +73,40 @@
       "position": "Professeur I.T.",
       "responsibilities": [
         "Responsable de cours en développement logiciel, développement de jeux, robotique, marketing."
-      ]
+      ],
+      "tag": "teaching"
     },
     {
       "start_date": "2017-12",
       "end_date": "2019-12",
       "company": "HP Inc.",
-      "location": "HP EMEA Headquarters, Genève, Suisse",
-      "position": "Consultant technique avant-vente (Computing)",
+      "location": "Genève, Suisse",
+      "position": "Consultant technique avant-vente (computing)",
       "responsibilities": [
         "Point de contact technique pour les clients et partenaires d’HP Suisse (global, corporate, secteur public, PME).",
-        "Gestion des processus d’escalade technique (avant et après-vente), lien entre ingénieurs (HP Inc. Houston) et clients."
-      ]
+        "Gestion des processus d’escalade technique (avant et après-vente), lien entre ingénieurs (HP Inc. Houston) et clients.",
+        "Gestion stock d'unités demo, showroom",
+        "Spécialiste sécurité hardware"
+      ],
+      "tag": "it"
+    },
+    {
+      "start_date": "2017-12",
+      "end_date": "2019-12",
+      "company": "Rolex",
+      "location": "Genève, Suisse",
+      "position": "Developpeur",
+      "responsibilities": [
+        "Developpement d'une application de formation à l'analyse sensorielle (detection de défauts)"
+      ],
+      "tag": "it"
     }
   ],
   "education": [
     {
       "start_date": "2019",
       "end_date": "2023",
-      "degree": "Bachelor en ingénierie des technologies de l'information (soir)",
+      "degree": "Bachelor en ingénierie des technologies de l'information (soir, employé en parallèle)",
       "institution": "Haute École du Paysage, d’Ingénierie et d’Architecture de Genève (HEPIA)",
       "location": "Genève, Suisse"
     },
@@ -101,7 +126,7 @@
     }
   ],
   "skills": {
-    "frontend": [
+    "Frontend": [
       "React",
       "Vue.js",
       "SvelteKit",
@@ -111,11 +136,11 @@
       "JavaScript (ES6+)",
       "Tailwind CSS"
     ],
-    "backend": ["Node.js (Express.js)", "REST APIs", "WebSockets"],
-    "database_management": ["MySQL", "PostgreSQL", "Prisma ORM"],
-    "development": ["Python", "Java", "C", "C++", "C#", "Bash"],
-    "devops": ["Git", "GitHub Actions", "Docker", "CI/CD Pipelines"],
-    "design_and_prototyping": [
+    "Backend": ["Node.js (Express.js)", "REST APIs", "WebSockets"],
+    "Database management": ["MySQL", "PostgreSQL", "Prisma ORM"],
+    "Development": ["Python", "Java", "C", "C++", "C#", "Bash"],
+    "Devops": ["Git", "GitHub Actions", "Docker", "CI/CD Pipelines"],
+    "Design and prototyping": [
       "Figma",
       "Suite Adobe",
       "Blender",
