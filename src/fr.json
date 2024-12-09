@@ -1,0 +1,127 @@
+{
+  "personal_information": {
+    "name": "Julien Seemüller",
+    "title": "Ingénieur logiciel",
+    "date_of_birth": "1996-09-26",
+    "contact": {
+      "phone": "+41 76 615 64 41",
+      "email": "julien.seemuller@gmail.com"
+    },
+    "languages": {
+      "Français": "Maîtrise",
+      "Anglais": "Maîtrise",
+      "Allemand": "Débutant",
+      "Japonais": "Débutant"
+    },
+    "interests": [
+      "Guitare (standards swing & manouche)",
+      "Lindy Hop",
+      "DIY",
+      "Électronique",
+      "Impression 3D",
+      "Latte Art"
+    ],
+    "driver_license": ["A", "B"]
+  },
+  "summary": "Attiré par les domaines artistiques et techniques, de la programmation et l’électronique à la confection d’espresso et latte art. Motivé, dynamique et toujours à la recherche de nouveaux défis.",
+  "experience": [
+    {
+      "start_date": "2024-11",
+      "end_date": "2024-12",
+      "company": "Musée d'ethnographie de Genève (MEG)",
+      "location": "Genève, Suisse",
+      "position": "Ingénieur logiciel",
+      "responsibilities": [
+        "Mission d’un mois, aide au développement de solutions (frontend et backend), migrations."
+      ]
+    },
+    {
+      "start_date": "2022-04",
+      "end_date": "2024-11",
+      "company": "Les Petites Artisanes, Café Calico",
+      "location": "Genève, Suisse",
+      "position": "Barista",
+      "responsibilities": [
+        "Principes d’extraction (espresso & filtre), latte art."
+      ]
+    },
+    {
+      "start_date": "2020-09",
+      "end_date": "2022-04",
+      "company": "AnimaScience",
+      "location": "Genève, Suisse",
+      "position": "Médiateur scientifique",
+      "responsibilities": [
+        "Création et déroulement d’activités scientifiques et vulgarisation pour les élèves de différentes écoles de Genève (1P-8P, incluant classes allophones et d’intégration)."
+      ]
+    },
+    {
+      "start_date": "2020-06",
+      "end_date": "2020-09",
+      "company": "IT STEP Academy",
+      "location": "Genève, Suisse",
+      "position": "Professeur I.T.",
+      "responsibilities": [
+        "Responsable de cours en développement logiciel, développement de jeux, robotique, marketing."
+      ]
+    },
+    {
+      "start_date": "2017-12",
+      "end_date": "2019-12",
+      "company": "HP Inc.",
+      "location": "HP EMEA Headquarters, Genève, Suisse",
+      "position": "Consultant technique avant-vente (Computing)",
+      "responsibilities": [
+        "Point de contact technique pour les clients et partenaires d’HP Suisse (global, corporate, secteur public, PME).",
+        "Gestion des processus d’escalade technique (avant et après-vente), lien entre ingénieurs (HP Inc. Houston) et clients."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "start_date": "2019",
+      "end_date": "2023",
+      "degree": "Bachelor en ingénierie des technologies de l'information (soir)",
+      "institution": "Haute École du Paysage, d’Ingénierie et d’Architecture de Genève (HEPIA)",
+      "location": "Genève, Suisse"
+    },
+    {
+      "start_date": "2015",
+      "end_date": "2017",
+      "degree": "Diplôme de Technicien ES en technologies de l'information",
+      "institution": "Centre de Formation Professionnel Technique (CFPT-I)",
+      "location": "Genève, Suisse"
+    },
+    {
+      "start_date": "2011",
+      "end_date": "2015",
+      "degree": "CFC en technologies de l'information",
+      "institution": "Centre de Formation Professionnel Technique (CFPT-I)",
+      "location": "Genève, Suisse"
+    }
+  ],
+  "skills": {
+    "frontend": [
+      "React",
+      "Vue.js",
+      "SvelteKit",
+      "P5.js",
+      "HTML5",
+      "CSS3",
+      "JavaScript (ES6+)",
+      "Tailwind CSS"
+    ],
+    "backend": ["Node.js (Express.js)", "REST APIs", "WebSockets"],
+    "database_management": ["MySQL", "PostgreSQL", "Prisma ORM"],
+    "development": ["Python", "Java", "C", "C++", "C#", "Bash"],
+    "devops": ["Git", "GitHub Actions", "Docker", "CI/CD Pipelines"],
+    "design_and_prototyping": [
+      "Figma",
+      "Suite Adobe",
+      "Blender",
+      "Fusion 360",
+      "SolidWorks",
+      "LaTeX"
+    ]
+  }
+}
